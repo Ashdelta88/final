@@ -32,7 +32,7 @@ body {
 }
 
 .banner h3 {
-    font-size: 2em;
+    font-size: 1.5em;
     -webkit-text-fill-color: rgb(250, 250, 250);
     text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
     -webkit-text-stroke: 1px rgb(112, 93, 93); /* Black border around the text */
