@@ -1119,3 +1119,26 @@ p {
         width: 100%;
     }
 }
+
+.navigation-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.nav-button {
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    color: white;
+    background: linear-gradient(to right, #ff7eb3, #ff758c);
+    border: none;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.nav-button:hover {
+    background: linear-gradient(to right, #ff6a98, #ff4d6b);
+}
